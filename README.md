@@ -2,5 +2,5 @@
 
 The things I do at the moment:
 
-- Writing my blog [abdulwahidkahar.com](https://abdulwahidkahar.vercel.app/)
+- Writing my blog [abdulwahidkahar.com](https://abdulwahidkahar.com/)
 - Building [sivyanalyses.com](https://sivyanalyses.com)
